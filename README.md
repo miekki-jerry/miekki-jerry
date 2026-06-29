@@ -22,7 +22,7 @@ Based in Poland. Working mostly with React Native, TypeScript, Python, Swift, Su
 
 - **[WakeUp Samurai](https://github.com/miekki-jerry/wakeup-samurai)** - native macOS menu bar app that keeps a Mac awake while AI coding agents are running.
 - **[Business Ideas](https://github.com/miekki-jerry/business-ideas)** - source-backed business idea search engine and MCP server.
-- **MemeMatch** - meme discovery and recommendation product experiments, including Python-based recommendation work.
+- **MemeMatch** - founded a Tinder-like social app for meeting people through memes and shared humor.
 - **Current NDA mobile app** - React Native app with AI-assisted flows for the beauty booking sector.
 - **Foodtech AI & Recommendations** - 1.5 years working on recommendations, personalization, and AI assistant features for one of the largest foodtech companies in Poland.
 - **AI-assisted mobile QA** - private work on an agent-based testing system for React Native and Expo apps.
@@ -48,11 +48,13 @@ It combines a curated idea catalog with retrieval-oriented infrastructure and ag
 
 ### MemeMatch
 
-Product experiments around meme discovery, recommendation, and lightweight entertainment workflows.
+Founder of MemeMatch, a Tinder-like social app for meeting people through memes and shared humor.
 
-The work included landing pages, scraping/data helpers, and Python-based recommendation experiments. Some repositories are private or historical, but the project is still useful as a signal for recommendation systems, data processing, and product prototyping.
+The core bet was simple: if two people laugh at the same memes, they have a more natural reason to start a conversation than another profile swipe. We built and validated an MVP for the first 300 users, collected around 6000 launch leads, reached 500k+ views with a viral TikTok, and took 2nd place at KRK Pitch Contest.
 
-**Stack:** Python, recommendation logic, scraping/data workflows, lightweight web/product experiments.
+My work covered product discovery, roadmap, early user validation, launch planning, and AI-assisted meme search, tagging, and recommendation experiments.
+
+**Stack:** Flutter, Firebase, Python, recommendation logic, meme search/tagging, product discovery, UX.
 
 ### Mobile app for beauty bookings
 
