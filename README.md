@@ -50,9 +50,11 @@ It combines a curated idea catalog with retrieval-oriented infrastructure and ag
 
 Founder of MemeMatch, a Tinder-like social app for meeting people through memes and shared humor.
 
-The core bet was simple: if two people laugh at the same memes, they have a more natural reason to start a conversation than another profile swipe. We built and validated an MVP for the first 300 users, collected around 6000 launch leads, reached 500k+ views with a viral TikTok, and took 2nd place at KRK Pitch Contest.
+The core bet was simple: if two people laugh at the same memes, they have a more natural reason to start a conversation than another profile swipe. We shipped the app on iOS and Android, reached 5k+ downloads, collected around 6000 launch leads, reached 500k+ views with a viral TikTok, and took 2nd place at KRK Pitch Contest.
 
 My work covered product discovery, roadmap, early user validation, launch planning, and AI-assisted meme search, tagging, and recommendation experiments.
+
+Download: [App Store](https://apps.apple.com/pl/app/memematch-randki-znajomi/id6446218299) / [Google Play](https://play.google.com/store/apps/details?id=com.szelemeh.memematch_app&hl=fr)
 
 **Stack:** Flutter, Firebase, Python, recommendation logic, meme search/tagging, product discovery, UX.
 
