@@ -1,13 +1,14 @@
 # Hi, I'm Bogumil
 
-I build product software with AI in the loop: mobile apps, web apps, internal tools, and small native utilities.
+I build product software with AI in the loop: mobile apps, web apps, internal tools, data tools, and small native utilities.
 
-Based in Poland. Working mostly with React Native, TypeScript, Swift, Supabase, Postgres, and AI APIs.
+Based in Poland. Working mostly with React Native, TypeScript, Python, Swift, Supabase, Postgres, and AI APIs.
 
 [![Website](https://img.shields.io/badge/-bogumilluc.pl-111111?style=flat-square&logo=vercel&logoColor=white)](https://bogumilluc.pl)
 [![GitHub](https://img.shields.io/badge/-miekki--jerry-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miekki-jerry)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=111111)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -20,6 +21,8 @@ Based in Poland. Working mostly with React Native, TypeScript, Swift, Supabase, 
 ## Start Here
 
 - **[WakeUp Samurai](https://github.com/miekki-jerry/wakeup-samurai)** - native macOS menu bar app that keeps a Mac awake while AI coding agents are running.
+- **[Business Ideas](https://github.com/miekki-jerry/business-ideas)** - source-backed business idea search engine and MCP server.
+- **MemeMatch** - meme discovery and recommendation product experiments, including Python-based recommendation work.
 - **Current NDA mobile app** - React Native app with AI-assisted flows for the beauty booking sector.
 - **Foodtech AI & Recommendations** - 1.5 years working on recommendations, personalization, and AI assistant features for one of the largest foodtech companies in Poland.
 - **AI-assisted mobile QA** - private work on an agent-based testing system for React Native and Expo apps.
@@ -34,6 +37,22 @@ Open-source macOS utility built in Swift.
 It detects active AI coding agents, creates a macOS idle-sleep assertion while they are working, and releases it when they stop. The repo includes tests, CI, release packaging, a security policy, and installable DMG releases.
 
 **Stack:** Swift, SwiftPM, AppKit, macOS power management APIs, GitHub Actions.
+
+### Business Ideas
+
+Public knowledge base and MCP server for searching source-backed business ideas from podcasts, Reddit, and public websites.
+
+It combines a curated idea catalog with retrieval-oriented infrastructure and agent access. The project includes a Cloudflare Worker API, D1/R2 storage, AI Search integration, tests, import scripts, and MCP connection docs for Claude Code and Codex.
+
+**Stack:** TypeScript, Cloudflare Workers, Hono, Zod, D1, R2, Cloudflare AI Search, MCP, Vitest.
+
+### MemeMatch
+
+Product experiments around meme discovery, recommendation, and lightweight entertainment workflows.
+
+The work included landing pages, scraping/data helpers, and Python-based recommendation experiments. Some repositories are private or historical, but the project is still useful as a signal for recommendation systems, data processing, and product prototyping.
+
+**Stack:** Python, recommendation logic, scraping/data workflows, lightweight web/product experiments.
 
 ### Mobile app for beauty bookings
 
@@ -71,7 +90,7 @@ The goal is to let an agent learn an app, generate useful flows, replay them det
 
 - **Mobile:** React Native, Expo, native iOS/macOS when needed.
 - **Web:** Next.js, TypeScript, Tailwind, Vercel.
-- **Backend:** Supabase, Postgres, Drizzle, API integrations.
+- **Backend:** Python, Supabase, Postgres, Drizzle, Cloudflare Workers, API integrations.
 - **AI:** OpenAI, Claude, Vercel AI SDK, agent workflows, RAG/recommendation features.
 - **Native tools:** Swift, SwiftUI/AppKit, CLI and menu bar utilities.
 
