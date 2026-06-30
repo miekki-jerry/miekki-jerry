@@ -21,6 +21,7 @@ Based in Poland. Working mostly with React Native, TypeScript, Python, Swift, Su
 ## Start Here
 
 - **[WakeUp Samurai](https://github.com/miekki-jerry/wakeup-samurai)** - native macOS menu bar app that keeps a Mac awake while AI coding agents are running.
+- **[CarSense](https://bogumilluc.pl/en/projects/carsense)** - React Native app for iOS and Android car ownership, maintenance, costs, documents, reminders, and an AI assistant.
 - **[Business Ideas](https://github.com/miekki-jerry/business-ideas)** - source-backed business idea search engine and MCP server.
 - **MemeMatch** - founded a Tinder-like social app for meeting people through memes and shared humor.
 - **Current NDA mobile app** - React Native app with AI-assisted flows for the beauty booking sector.
@@ -37,6 +38,14 @@ Open-source macOS utility built in Swift.
 It detects active AI coding agents, creates a macOS idle-sleep assertion while they are working, and releases it when they stop. The repo includes tests, CI, release packaging, a security policy, and installable DMG releases.
 
 **Stack:** Swift, SwiftPM, AppKit, macOS power management APIs, GitHub Actions.
+
+### CarSense
+
+React Native app for iOS and Android that helps car owners manage maintenance, costs, documents, reminders, and vehicle context in one place.
+
+I built the first working version in a 25-hour sprint, with the core mobile flows already in place: onboarding, vehicle dashboard, service reminders, expenses, document/OCR direction, and an AI assistant with car context. It is now being turned into a production release.
+
+**Stack:** React Native, Expo, TypeScript, Supabase, Vercel AI SDK, OpenAI, mobile release workflow.
 
 ### Business Ideas
 
