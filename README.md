@@ -21,6 +21,7 @@ Based in Poland. Working mostly with React Native, TypeScript, Python, Swift, Su
 ## Start Here
 
 - **[WakeUp Samurai](https://github.com/miekki-jerry/wakeup-samurai)** - native macOS menu bar app that keeps a Mac awake while AI coding agents are running.
+- **[cmdFlow](https://github.com/miekki-jerry/cmdFlow)** - open-source macOS app that transforms clipboard text with an AI model under a global shortcut, on-device (Apple Foundation Model) or via OpenRouter/OpenAI.
 - **[CarSense](https://bogumilluc.pl/en/projects/carsense)** - React Native app for iOS and Android car ownership, maintenance, costs, documents, reminders, and an AI assistant.
 - **[Business Ideas](https://github.com/miekki-jerry/business-ideas)** - source-backed business idea search engine and MCP server.
 - **MemeMatch** - founded a Tinder-like social app for meeting people through memes and shared humor.
@@ -38,6 +39,14 @@ Open-source macOS utility built in Swift.
 It detects active AI coding agents, creates a macOS idle-sleep assertion while they are working, and releases it when they stop. The repo includes tests, CI, release packaging, a security policy, and installable DMG releases.
 
 **Stack:** Swift, SwiftPM, AppKit, macOS power management APIs, GitHub Actions.
+
+### cmdFlow
+
+Open-source macOS utility built in Swift.
+
+It runs your clipboard text through an AI model under a global keyboard shortcut and writes the result straight back to the clipboard — translate, fix grammar, summarize, all in place. It defaults to Apple's on-device Foundation Model for privacy, and falls back to OpenRouter or OpenAI (bring your own key) when the on-device model can't handle a language. The repo includes CI, tag-based DMG/ZIP releases, and a Vercel landing page.
+
+**Stack:** Swift, SwiftUI, FoundationModels, Carbon hotkeys, Keychain, SMAppService, GitHub Actions.
 
 ### CarSense
 
