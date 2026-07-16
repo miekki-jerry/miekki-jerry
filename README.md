@@ -16,22 +16,15 @@
 
 I lead AI product work from an unclear opportunity to a working mobile, web, or macOS product. Coding agents are part of my implementation layer; I remain responsible for product decisions, system behavior, validation, QA, and final quality.
 
-<table>
-  <tr>
-    <td width="33%">
-      <strong>Production AI</strong><br>
-      <sub>Recommendations, personalization, and AI assistants</sub>
-    </td>
-    <td width="33%">
-      <strong>5k+ app downloads</strong><br>
-      <sub>500k+ organic launch views</sub>
-    </td>
-    <td width="33%">
-      <strong>Mobile · Web · macOS</strong><br>
-      <sub>Product ownership from scope to release</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <strong>Production AI</strong>
+  ·
+  <strong>5k+ app downloads</strong>
+  ·
+  <strong>Mobile · Web · macOS</strong>
+  <br>
+  <sub>Recommendations and AI assistants · 500k+ organic launch views · Product ownership from scope to release</sub>
+</p>
 
 ## Production AI
 

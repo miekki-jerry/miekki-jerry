@@ -64,20 +64,20 @@
   <line x1="48" y1="340" x2="672" y2="340" stroke="#30363d" stroke-width="1"/>
   <text x="48" y="382" class="process-label">PRODUCT LOOP</text>
 
-  <line x1="92" y1="431" x2="628" y2="431" stroke="#484f58" stroke-width="2"/>
-  <circle cx="92" cy="431" r="8" fill="#58a6ff"/>
-  <circle cx="270" cy="431" r="8" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
-  <circle cx="450" cy="431" r="8" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
-  <circle cx="628" cy="431" r="8" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
+  <line x1="80" y1="431" x2="560" y2="431" stroke="#484f58" stroke-width="2"/>
+  <circle cx="80" cy="431" r="8" fill="#58a6ff"/>
+  <circle cx="240" cy="431" r="8" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
+  <circle cx="400" cy="431" r="8" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
+  <circle cx="560" cy="431" r="8" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
 
-  <text x="92" y="473" text-anchor="middle" class="step-number">01</text>
-  <text x="92" y="502" text-anchor="middle" class="step-name">FRAME</text>
-  <text x="270" y="473" text-anchor="middle" class="step-number">02</text>
-  <text x="270" y="502" text-anchor="middle" class="step-name">BUILD</text>
-  <text x="450" y="473" text-anchor="middle" class="step-number">03</text>
-  <text x="450" y="502" text-anchor="middle" class="step-name">VERIFY</text>
-  <text x="628" y="473" text-anchor="middle" class="step-number">04</text>
-  <text x="628" y="502" text-anchor="middle" class="step-name">SHIP</text>
+  <text x="80" y="473" text-anchor="middle" class="step-number">01</text>
+  <text x="80" y="502" text-anchor="middle" class="step-name">FRAME</text>
+  <text x="240" y="473" text-anchor="middle" class="step-number">02</text>
+  <text x="240" y="502" text-anchor="middle" class="step-name">BUILD</text>
+  <text x="400" y="473" text-anchor="middle" class="step-number">03</text>
+  <text x="400" y="502" text-anchor="middle" class="step-name">VERIFY</text>
+  <text x="560" y="473" text-anchor="middle" class="step-number">04</text>
+  <text x="560" y="502" text-anchor="middle" class="step-name">SHIP</text>
 
   <text x="48" y="570" class="footer">APPLIED AI · RECOMMENDATIONS · AGENTS · MOBILE</text>
 </svg>
