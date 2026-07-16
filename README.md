@@ -1,101 +1,77 @@
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/hero-mobile-dark-v2.svg">
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/hero-mobile-light-v2.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-light.svg" width="100%" alt="Bogumił Łuć, AI Product Engineer building applied AI products">
-</picture>
+# Hi, I'm Bogumił
 
-<p align="center">
-  <a href="https://bogumilluc.pl">Portfolio</a>
-  ·
-  <a href="https://www.linkedin.com/in/bogumilluc/">LinkedIn</a>
-  ·
-  <a href="mailto:hello@bogumilluc.pl">Email</a>
-</p>
+### AI Product Engineer & AI Builder
 
-I lead AI product work from an unclear opportunity to a working mobile, web, or macOS product. Coding agents are part of my implementation layer; I remain responsible for product decisions, system behavior, validation, QA, and final quality.
+I turn ambiguous ideas into working AI products — from product direction and UX to implementation, validation, and release.
 
-<p align="center">
-  <strong>Production AI</strong>
-  ·
-  <strong>5k+ app downloads</strong>
-  ·
-  <strong>Mobile · Web · macOS</strong>
-  <br>
-  <sub>Recommendations and AI assistants · 500k+ organic launch views · Product ownership from scope to release</sub>
-</p>
+I build across mobile, web, and macOS. Coding agents are part of my implementation layer; I remain responsible for product decisions, system behavior, QA, and the final result.
 
-## Production AI
+[![Portfolio](https://img.shields.io/badge/-bogumilluc.pl-111111?style=flat-square&logo=vercel&logoColor=white)](https://bogumilluc.pl)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogumilluc/)
+[![Email](https://img.shields.io/badge/-hello%40bogumilluc.pl-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@bogumilluc.pl)
 
-### [Foodify](https://foodify.com)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=111111)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-**Applied AI & Recommendations at INVO**
+## Production & Client Work
 
-Led AI product work for a major Polish foodtech platform across mobile and web.
+### [Foodify](https://foodify.com) — Applied AI & Recommendations
 
-- Delivered an AI assistant supporting meal discovery, personalization, and ordering.
-- Built Python-based recommendation and personalization systems around customer preferences and dietary needs.
-- Owned AI initiatives from product framing through validation, release, and iteration.
+At INVO, I led AI product work for Foodify, a Polish foodtech platform available across mobile and web.
 
-`Applied AI` · `Recommendation Systems` · `Personalization` · `LLM Applications` · `Python`
+I owned AI initiatives end to end: identifying valuable use cases, shaping product behavior, delivering customer-facing features, validating them, and iterating after release. My work included an AI assistant supporting meal discovery, personalization, and ordering, as well as Python-based recommendation and personalization systems around customer preferences and dietary needs.
 
-<sub>Implementation details, internal performance, and commercial data remain confidential.</sub>
+The role combined Applied AI, product ownership, hands-on delivery, and close collaboration with product, UX, mobile, frontend, backend, and business teams.
 
-### Confidential Beauty-Tech Platform
+**Focus:** Applied AI, recommendation systems, personalization, LLM applications, Python, and AI product development.
 
-**Lead Product Engineering**
+*Implementation details, internal performance, and commercial data remain confidential.*
 
-I currently lead product engineering for a confidential mobile and web platform used by clients, beauty professionals, and business owners.
+### Confidential Beauty-Tech Platform — Lead Product Engineering
 
-- Own product discovery, UX decisions, role-based onboarding and booking flows, implementation, QA, and release.
-- Use coding agents as delivery leverage while retaining responsibility for behavior, acceptance criteria, testing, and final quality.
+I currently lead product engineering for a confidential platform used by clients, beauty professionals, and business owners across mobile and web.
 
-`React Native` · `Expo` · `TypeScript` · `Product Engineering` · `AI-Native Delivery`
+My work spans product discovery, UX decisions, role-based onboarding and booking flows, implementation, QA, and release. Coding agents support the delivery workflow, while I remain responsible for product behavior, acceptance criteria, testing, and final quality.
 
-<sub>The product name, organization, internal architecture, and commercial data remain confidential under NDA.</sub>
+**Focus:** mobile and web products, React Native/Expo, TypeScript, product engineering, and AI-native delivery.
 
-## Featured Products
+*The product name, organization, internal architecture, and commercial data remain confidential under NDA.*
 
-<a href="https://bogumilluc.pl/en/projects/carsense">
-  <img src="./assets/carsense-case-study.png" width="100%" alt="CarSense case study, an AI-assisted vehicle companion for iOS and Android">
-</a>
+## Independent Products
 
-### [CarSense: AI-Assisted Vehicle Companion](https://bogumilluc.pl/en/projects/carsense)
+### [CarSense](https://bogumilluc.pl/en/projects/carsense) — AI-Assisted Vehicle Companion
 
 A React Native product for iOS and Android that brings vehicle maintenance, costs, documents, reminders, and a context-aware AI assistant into one experience.
 
 I built the first functional version during a 25-hour product sprint, covering the core mobile flows from onboarding to vehicle management. It is now being developed toward a production release.
 
-`React Native` · `Expo` · `TypeScript` · `Supabase` · `Vercel AI SDK` · `OpenAI`
+**Stack:** React Native, Expo, TypeScript, Supabase, Vercel AI SDK, and OpenAI.
 
-<a href="https://bogumilluc.pl/en/projects/flowtap">
-  <img src="./assets/flowtap-flow-graph.png" width="100%" alt="FlowTap dashboard showing an automatically discovered mobile app flow graph">
-</a>
+### FlowTap — Multi-Agent Mobile QA
 
-### [FlowTap: Multi-Agent Mobile QA](https://bogumilluc.pl/en/projects/flowtap)
+A multi-agent QA system for React Native and Expo applications. FlowTap inspects real product flows, executes tests, captures screens, identifies UI and behavioral issues, and turns the findings into actionable reports.
 
-A multi-agent QA system for React Native and Expo applications. FlowTap explores real product flows, executes tests, captures screens, identifies UI and behavioral issues, and turns the findings into actionable reports.
+I own the product direction, agent workflows, mobile testing approach, and end-to-end delivery.
 
-I own the product direction, agent workflows, mobile testing approach, evaluation strategy, and end-to-end delivery.
+**Focus:** AI agents, multi-agent systems, mobile QA, React Native, Expo, Maestro, and vision models.
 
-`AI Agents` · `Multi-Agent Systems` · `React Native` · `Expo` · `Maestro` · `Vision Models`
+### Floe — The Living Layer for Your Mac
 
-<a href="#floe-the-living-layer-for-your-mac">
-  <img src="./assets/floe-hero.png" width="100%" alt="Floe for macOS showing agent activity beneath the MacBook notch">
-</a>
+A private, commercial macOS product that brings background agent activity, media, files, clipboard actions, and system signals into one contextual surface.
 
-### Floe: The Living Layer for Your Mac
+Floe evolves the public cmdFlow foundation into a broader native product. I own the product definition, interaction design, implementation workflow, testing, and release direction.
 
-A commercial macOS product that brings background agent activity, media, files, clipboard actions, and system signals into one contextual surface.
+**Status:** private, native macOS, in development.
 
-Floe evolves the public cmdFlow foundation into a broader native product. I own product definition, interaction design, implementation workflow, testing, and release direction.
+### MemeMatch — Shipped Consumer Mobile Product
 
-`Native macOS` · `Swift` · `SwiftUI` · `Agent Workflows` · `Product Design`
-
-### Previously Shipped: MemeMatch
-
-I co-founded and released a consumer social app on iOS and Android for meeting people through memes and shared humor.
+I co-founded and shipped a social app on iOS and Android for meeting people through memes and shared humor.
 
 My work covered product discovery, roadmap, validation, launch, and experiments with AI-assisted meme classification, moderation, search, and recommendations.
 
@@ -105,22 +81,27 @@ My work covered product discovery, roadmap, validation, launch, and experiments 
 
 ## Open Source
 
-| Project | What it demonstrates | Stack |
-| --- | --- | --- |
-| **[Business Ideas](https://github.com/miekki-jerry/business-ideas)** | Source-backed AI knowledge base, search engine, and MCP server with attributable context. | TypeScript, Workers, D1, R2, MCP |
-| **[WakeUp Samurai](https://github.com/miekki-jerry/wakeup-samurai)** | Native macOS app with tests, CI, release packaging, and installable DMG releases. | Swift, AppKit, SwiftPM, GitHub Actions |
-| **[cmdFlow](https://github.com/miekki-jerry/cmdFlow)** | Native utility using Apple's on-device Foundation Model or optional cloud models. | SwiftUI, FoundationModels, Keychain |
+Public repositories with working software and inspectable implementation, documentation, and delivery setup.
 
-## How I Work
+- **[Business Ideas](https://github.com/miekki-jerry/business-ideas)** — source-backed business idea search engine, knowledge base, and MCP server that gives agents structured, attributable context.
 
-> **Frame → Build → Verify → Ship**
->
-> I use coding agents as execution leverage while owning product scope, system behavior, QA, and the final result.
+  `TypeScript` · `Cloudflare Workers` · `D1 / R2` · `MCP` · `Vitest`
 
-`Python` · `TypeScript` · `React Native` · `Expo` · `Swift` · `Next.js` · `Postgres` · `OpenAI` · `LangGraph` · `MCP`
+- **[WakeUp Samurai](https://github.com/miekki-jerry/wakeup-samurai)** — native macOS menu bar utility that keeps a Mac awake only while AI coding agents are working. Includes tests, CI, release packaging, and installable DMG releases.
 
-## Let's Build Something Useful
+  `Swift` · `SwiftPM` · `AppKit` · `GitHub Actions`
 
-Looking for an AI Product Engineer who can turn an unclear opportunity into a working product?
+- **[cmdFlow](https://github.com/miekki-jerry/cmdFlow)** — native macOS utility that transforms clipboard text under a global shortcut using Apple's on-device Foundation Model or optional cloud models.
 
-[View selected work](https://bogumilluc.pl) · [Connect on LinkedIn](https://www.linkedin.com/in/bogumilluc/) · [Email me](mailto:hello@bogumilluc.pl)
+  `Swift` · `SwiftUI` · `FoundationModels` · `Keychain` · `GitHub Actions`
+
+## How I Build
+
+- **Frame** — turn an unclear opportunity into a concrete product scope.
+- **Build** — use AI agents as execution leverage across research, implementation, and testing.
+- **Verify** — own system behavior, edge cases, QA, and the final product experience.
+- **Ship** — choose technology around the product and deliver a version people can actually use.
+
+## Contact
+
+See selected case studies at **[bogumilluc.pl](https://bogumilluc.pl)** or reach me at **[hello@bogumilluc.pl](mailto:hello@bogumilluc.pl)**.
