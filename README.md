@@ -1,131 +1,107 @@
-# Hi, I'm Bogumil
+# Hi, I'm Bogumił
 
-I build product software with AI in the loop: mobile apps, web apps, internal tools, data tools, and small native utilities.
+### AI Product Engineer & AI Builder
 
-Based in Poland. Working mostly with React Native, TypeScript, Python, Swift, Supabase, Postgres, and AI APIs.
+I turn ambiguous ideas into working AI products — from product direction and UX to implementation, validation, and release.
 
-[![Website](https://img.shields.io/badge/-bogumilluc.pl-111111?style=flat-square&logo=vercel&logoColor=white)](https://bogumilluc.pl)
-[![GitHub](https://img.shields.io/badge/-miekki--jerry-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miekki-jerry)
+I build across mobile, web, and macOS. Coding agents are part of my implementation layer; I remain responsible for product decisions, system behavior, QA, and the final result.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/-bogumilluc.pl-111111?style=flat-square&logo=vercel&logoColor=white)](https://bogumilluc.pl)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogumilluc/)
+[![Email](https://img.shields.io/badge/-hello%40bogumilluc.pl-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@bogumilluc.pl)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=111111)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111111)
-![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-## Start Here
+## Production & Client Work
 
-- **[WakeUp Samurai](https://github.com/miekki-jerry/wakeup-samurai)** - native macOS menu bar app that keeps a Mac awake while AI coding agents are running.
-- **[cmdFlow](https://github.com/miekki-jerry/cmdFlow)** - open-source macOS app that transforms clipboard text with an AI model under a global shortcut, on-device (Apple Foundation Model) or via OpenRouter/OpenAI.
-- **[CarSense](https://bogumilluc.pl/en/projects/carsense)** - React Native app for iOS and Android car ownership, maintenance, costs, documents, reminders, and an AI assistant.
-- **[Business Ideas](https://github.com/miekki-jerry/business-ideas)** - source-backed business idea search engine and MCP server.
-- **MemeMatch** - founded a Tinder-like social app for meeting people through memes and shared humor.
-- **Current NDA mobile app** - React Native app with AI-assisted flows for the beauty booking sector.
-- **Foodtech AI & Recommendations** - 1.5 years working on recommendations, personalization, and AI assistant features for one of the largest foodtech companies in Poland.
-- **AI-assisted mobile QA** - private work on an agent-based testing system for React Native and Expo apps.
-- **[Portfolio](https://bogumilluc.pl)** - selected projects, product notes, and current direction.
+### [Foodify](https://foodify.com) — Applied AI & Recommendations
 
-## Selected Work
+At INVO, I led AI product work for Foodify, a Polish foodtech platform available across mobile and web.
 
-### WakeUp Samurai
+I owned AI initiatives end to end: identifying valuable use cases, shaping product behavior, delivering customer-facing features, validating them, and iterating after release. My work included an AI assistant supporting meal discovery, personalization, and ordering, as well as Python-based recommendation and personalization systems around customer preferences and dietary needs.
 
-Open-source macOS utility built in Swift.
+The role combined Applied AI, product ownership, hands-on delivery, and close collaboration with product, UX, mobile, frontend, backend, and business teams.
 
-It detects active AI coding agents, creates a macOS idle-sleep assertion while they are working, and releases it when they stop. The repo includes tests, CI, release packaging, a security policy, and installable DMG releases.
+**Focus:** Applied AI, recommendation systems, personalization, LLM applications, Python, and AI product development.
 
-**Stack:** Swift, SwiftPM, AppKit, macOS power management APIs, GitHub Actions.
+*Implementation details, internal performance, and commercial data remain confidential.*
 
-### cmdFlow
+### Confidential Beauty-Tech Platform — Lead Product Engineering
 
-Open-source macOS utility built in Swift.
+I currently lead product engineering for a confidential platform used by clients, beauty professionals, and business owners across mobile and web.
 
-It runs your clipboard text through an AI model under a global keyboard shortcut and writes the result straight back to the clipboard — translate, fix grammar, summarize, all in place. It defaults to Apple's on-device Foundation Model for privacy, and falls back to OpenRouter or OpenAI (bring your own key) when the on-device model can't handle a language. The repo includes CI, tag-based DMG/ZIP releases, and a Vercel landing page.
+My work spans product discovery, UX decisions, role-based onboarding and booking flows, implementation, QA, and release. Coding agents support the delivery workflow, while I remain responsible for product behavior, acceptance criteria, testing, and final quality.
 
-**Stack:** Swift, SwiftUI, FoundationModels, Carbon hotkeys, Keychain, SMAppService, GitHub Actions.
+**Focus:** mobile and web products, React Native/Expo, TypeScript, product engineering, and AI-native delivery.
 
-### CarSense
+*The product name, organization, internal architecture, and commercial data remain confidential under NDA.*
 
-React Native app for iOS and Android that helps car owners manage maintenance, costs, documents, reminders, and vehicle context in one place.
+## Independent Products
 
-I built the first working version in a 25-hour sprint, with the core mobile flows already in place: onboarding, vehicle dashboard, service reminders, expenses, document/OCR direction, and an AI assistant with car context. It is now being turned into a production release.
+### [CarSense](https://bogumilluc.pl/en/projects/carsense) — AI-Assisted Vehicle Companion
 
-**Stack:** React Native, Expo, TypeScript, Supabase, Vercel AI SDK, OpenAI, mobile release workflow.
+A React Native product for iOS and Android that brings vehicle maintenance, costs, documents, reminders, and a context-aware AI assistant into one experience.
 
-### Business Ideas
+I built the first functional version during a 25-hour product sprint, covering the core mobile flows from onboarding to vehicle management. It is now being developed toward a production release.
 
-Public knowledge base and MCP server for searching source-backed business ideas from podcasts, Reddit, and public websites.
+**Stack:** React Native, Expo, TypeScript, Supabase, Vercel AI SDK, and OpenAI.
 
-It combines a curated idea catalog with retrieval-oriented infrastructure and agent access. The project includes a Cloudflare Worker API, D1/R2 storage, AI Search integration, tests, import scripts, and MCP connection docs for Claude Code and Codex.
+### FlowTap — Multi-Agent Mobile QA
 
-**Stack:** TypeScript, Cloudflare Workers, Hono, Zod, D1, R2, Cloudflare AI Search, MCP, Vitest.
+A multi-agent QA system for React Native and Expo applications. FlowTap inspects real product flows, executes tests, captures screens, identifies UI and behavioral issues, and turns the findings into actionable reports.
 
-### MemeMatch
+I own the product direction, agent workflows, mobile testing approach, and end-to-end delivery.
 
-Founder of MemeMatch, a Tinder-like social app for meeting people through memes and shared humor.
+**Focus:** AI agents, multi-agent systems, mobile QA, React Native, Expo, Maestro, and vision models.
 
-The core bet was simple: if two people laugh at the same memes, they have a more natural reason to start a conversation than another profile swipe. We shipped the app on iOS and Android, reached 5k+ downloads, collected around 6000 launch leads, reached 500k+ views with a viral TikTok, and took 2nd place at KRK Pitch Contest.
+### Floe — The Living Layer for Your Mac
 
-My work covered product discovery, roadmap, early user validation, launch planning, and AI-assisted meme search, tagging, and recommendation experiments.
+A private, commercial macOS product that brings background agent activity, media, files, clipboard actions, and system signals into one contextual surface.
 
-Download: [App Store](https://apps.apple.com/pl/app/memematch-randki-znajomi/id6446218299) / [Google Play](https://play.google.com/store/apps/details?id=com.szelemeh.memematch_app&hl=fr)
+Floe evolves the public cmdFlow foundation into a broader native product. I own the product definition, interaction design, implementation workflow, testing, and release direction.
 
-**Stack:** Flutter, Firebase, Python, recommendation logic, meme search/tagging, product discovery, UX.
+**Status:** private, native macOS, in development.
 
-### Mobile app for beauty bookings
+### MemeMatch — Shipped Consumer Mobile Product
 
-Currently building a React Native mobile app with AI-assisted product flows for the beauty booking sector.
+I co-founded and shipped a social app on iOS and Android for meeting people through memes and shared humor.
 
-The work covers mobile UX, booking flows, account contexts, admin/staff workflows, backend integration, and AI-assisted product features. Project name and business details are under NDA.
+My work covered product discovery, roadmap, validation, launch, and experiments with AI-assisted meme classification, moderation, search, and recommendations.
 
-**Stack:** React Native, Expo, TypeScript, Supabase/Postgres, API integrations, AI-assisted workflows.
+**5k+ downloads · ~6k launch leads · 500k+ organic views · 2nd place at KRK Pitch Contest**
 
-### Foodtech AI & Recommendations
+[App Store](https://apps.apple.com/pl/app/memematch-randki-znajomi/id6446218299) · [Google Play](https://play.google.com/store/apps/details?id=com.szelemeh.memematch_app)
 
-Worked for 1.5 years on AI and recommendation systems for a major foodtech company in Poland.
+## Open Source
 
-The scope included recommendation and personalization work, text assistant features, analysis, product concepting, implementation, and integration. Technical and business details are under NDA.
+Public repositories with working software and inspectable implementation, documentation, and delivery setup.
 
-**Areas:** recommendations, personalization, AI assistant UX, backend integration, product iteration.
+- **[Business Ideas](https://github.com/miekki-jerry/business-ideas)** — source-backed business idea search engine, knowledge base, and MCP server that gives agents structured, attributable context.
 
-### AI-assisted mobile QA
+  `TypeScript` · `Cloudflare Workers` · `D1 / R2` · `MCP` · `Vitest`
 
-Building a private agent-based QA system for mobile apps.
+- **[WakeUp Samurai](https://github.com/miekki-jerry/wakeup-samurai)** — native macOS menu bar utility that keeps a Mac awake only while AI coding agents are working. Includes tests, CI, release packaging, and installable DMG releases.
 
-The goal is to let an agent learn an app, generate useful flows, replay them deterministically, and turn mobile testing into something closer to product-level confidence than brittle screenshot clicking.
+  `Swift` · `SwiftPM` · `AppKit` · `GitHub Actions`
 
-**Stack:** TypeScript, React Native/Expo test environments, app automation, multi-agent workflows.
+- **[cmdFlow](https://github.com/miekki-jerry/cmdFlow)** — native macOS utility that transforms clipboard text under a global shortcut using Apple's on-device Foundation Model or optional cloud models.
 
-## What I Care About
+  `Swift` · `SwiftUI` · `FoundationModels` · `Keychain` · `GitHub Actions`
 
-- Turning ambiguous product ideas into working software.
-- Shipping small, complete systems instead of endless prototypes.
-- Using AI agents as engineering leverage, while still owning the product decisions.
-- Building mobile and web apps that connect UI, data, backend, and real user workflows.
-- Keeping the implementation simple enough to maintain after the first demo.
+## How I Build
 
-## Tech I Reach For
-
-- **Mobile:** React Native, Expo, native iOS/macOS when needed.
-- **Web:** Next.js, TypeScript, Tailwind, Vercel.
-- **Backend:** Python, Supabase, Postgres, Drizzle, Cloudflare Workers, API integrations.
-- **AI:** OpenAI, Claude, Vercel AI SDK, agent workflows, RAG/recommendation features.
-- **Native tools:** Swift, SwiftUI/AppKit, CLI and menu bar utilities.
-
-## Current Focus
-
-I am focused on product engineering where AI is part of the workflow or the product itself:
-
-- mobile apps with AI-assisted UX,
-- booking, marketplace, and operational tools,
-- recommendation and assistant features,
-- agent-assisted QA and developer tooling,
-- small macOS utilities that solve real workflow problems.
+- **Frame** — turn an unclear opportunity into a concrete product scope.
+- **Build** — use AI agents as execution leverage across research, implementation, and testing.
+- **Verify** — own system behavior, edge cases, QA, and the final product experience.
+- **Ship** — choose technology around the product and deliver a version people can actually use.
 
 ## Contact
 
-Best place to start: **[bogumilluc.pl](https://bogumilluc.pl)**.
+See selected case studies at **[bogumilluc.pl](https://bogumilluc.pl)** or reach me at **[hello@bogumilluc.pl](mailto:hello@bogumilluc.pl)**.
