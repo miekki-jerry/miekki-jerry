@@ -21,9 +21,9 @@ I build across mobile, web, and macOS. Coding agents are part of my implementati
 
 ## Production & Client Work
 
-### [Foodify](https://foodify.com) — Applied AI & Recommendations
+### Confidential Foodtech Platform — Applied AI & Recommendations
 
-At INVO, I led AI product work for Foodify, a Polish foodtech platform available across mobile and web.
+At INVO, I led AI product work for one of the largest foodtech companies in Poland, with a platform available across mobile and web.
 
 I owned AI initiatives end to end: identifying valuable use cases, shaping product behavior, delivering customer-facing features, validating them, and iterating after release. My work included an AI assistant supporting meal discovery, personalization, and ordering, as well as Python-based recommendation and personalization systems around customer preferences and dietary needs.
 
@@ -31,7 +31,7 @@ The role combined Applied AI, product ownership, hands-on delivery, and close co
 
 **Focus:** Applied AI, recommendation systems, personalization, LLM applications, Python, and AI product development.
 
-*Implementation details, internal performance, and commercial data remain confidential.*
+*The product name, implementation details, internal performance, and commercial data remain confidential.*
 
 ### Confidential Beauty-Tech Platform — Lead Product Engineering
 
